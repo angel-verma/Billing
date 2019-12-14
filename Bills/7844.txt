@@ -1,0 +1,16 @@
+	Welcome Awesome Retail
+
+Bill Number : 7844
+Customer Name : komal
+Phone Number : 7869333309
+=====================================
+Products		QTY		Price
+=====================================
+ Bath Soap		2		80
+ Face Wash		1		60
+ Hair Gel		2		280
+ Body Lotion		3		540
+-------------------------------------
+Cosmetics Tax		Rs. 48.0
+Total Bill		Rs. 1008.0
+-------------------------------------

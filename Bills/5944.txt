@@ -1,0 +1,13 @@
+	Welcome Awesome Retail
+
+Bill Number : 5944
+Customer Name : shiva
+Phone Number : 675849
+=====================================
+Products		QTY		Price
+=====================================
+ Sugar		5		300
+-------------------------------------
+Grocery Tax		Rs. 30.0
+Total Bill		Rs. 330.0
+-------------------------------------

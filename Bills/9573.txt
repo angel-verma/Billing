@@ -1,0 +1,13 @@
+	Welcome Awesome Retail
+
+Bill Number : 9573
+Customer Name : krishn
+Phone Number : 234567
+=====================================
+Products		QTY		Price
+=====================================
+ Wheat		10		1200
+-------------------------------------
+Grocery Tax		Rs. 120.0
+Total Bill		Rs. 1320.0
+-------------------------------------
